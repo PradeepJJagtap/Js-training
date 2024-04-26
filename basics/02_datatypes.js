@@ -23,6 +23,6 @@ let isLoggedIn = true
 console.log(typeof "Pradeep")
 console.log(typeof null); //object
 console.log(typeof undefined); // undefined
-console.log(typeof number)
+console.log(typeof number);
 
 
